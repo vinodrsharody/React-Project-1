@@ -16,9 +16,10 @@
     flex: auto;
     display: flex;
     justify-content: flex-end;
-    a {
+    .nav-link {
       padding: 10px;
       color: #666;
+      cursor: pointer;
     }
   }
 }
